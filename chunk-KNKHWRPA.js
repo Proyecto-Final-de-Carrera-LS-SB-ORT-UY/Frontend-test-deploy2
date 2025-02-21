@@ -1,1 +1,0 @@
-import{q as a,r as b,s as c}from"./chunk-VLG6WTW3.js";import"./chunk-JEEGVSU3.js";import"./chunk-GWOMTHFW.js";import"./chunk-3TPKAHXI.js";import"./chunk-PHGEO2FR.js";import"./chunk-XA34XPHU.js";import"./chunk-5NSBDDVT.js";import"./chunk-X5YLR3NI.js";import"./chunk-ODN5LVDJ.js";export{c as CONTACTS_PARAMS,a as CONTACTS_ROUTES,b as CONTACTS_ROUTES_PATHS};
