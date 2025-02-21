@@ -1,0 +1,1 @@
+import{tb as a,ub as b}from"./chunk-JEEGVSU3.js";import"./chunk-PHGEO2FR.js";import"./chunk-XA34XPHU.js";import"./chunk-5NSBDDVT.js";import"./chunk-ODN5LVDJ.js";export{a as SETTINGS_ROUTES,b as SETTINGS_ROUTES_PATHS};
