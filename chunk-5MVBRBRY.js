@@ -1,1 +1,0 @@
-import{T as a,U as b}from"./chunk-C3P27HCL.js";import"./chunk-KYJKCLBF.js";import"./chunk-PJB3G4IH.js";import"./chunk-34MJBK2V.js";import"./chunk-Q7VRVJCK.js";import"./chunk-X5YLR3NI.js";import"./chunk-ODN5LVDJ.js";export{a as ALERTS_ROUTES,b as ALERTS_ROUTES_PATHS};
