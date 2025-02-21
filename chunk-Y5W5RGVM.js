@@ -1,1 +1,0 @@
-import{ub as a,vb as b}from"./chunk-3Y3BNK3A.js";import"./chunk-SRCE6WJ2.js";import"./chunk-UA5IZHRI.js";import"./chunk-2L27LJAK.js";import"./chunk-X5YLR3NI.js";import"./chunk-ODN5LVDJ.js";export{a as SETTINGS_ROUTES,b as SETTINGS_ROUTES_PATHS};
